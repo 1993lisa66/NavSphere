@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Docker 部署支持
+  // Vercel 部署支持
   output: 'standalone',
   
   images: {
@@ -29,10 +29,10 @@ const nextConfig = {
       }
     ]
   },
-  // Cloudflare Pages configuration
+  // Vercel configuration
   experimental: {
     serverActions: {
-      allowedOrigins: ['localhost', 'navsphere.com']
+      allowedOrigins: ['localhost', '*.vercel.app', 'navsphere.com']
     }
   }
 }
