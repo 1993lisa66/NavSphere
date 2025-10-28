@@ -33,7 +33,16 @@
       "icon": "Code",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761624088389_9omkqiqrd",
+          "title": "GitHub - RealKai42/qwerty-learner: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+          "href": "https://github.com/RealKai42/qwerty-learner",
+          "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers - RealKai42/qwerty-learner",
+          "icon": "/assets/favicon_1761624079932.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
