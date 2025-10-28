@@ -10,32 +10,6 @@
       "enabled": true
     },
     {
-      "id": "1760610695230",
-      "title": "投资者工具包",
-      "icon": "Building",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
-          "title": "数据与分析",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "a45066a4-3622-43a4-acbb-873da6268788",
-          "title": "溢价观测工具",
-          "icon": "Database",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1735433560958",
       "title": "自媒体工具包",
       "icon": "Video",
