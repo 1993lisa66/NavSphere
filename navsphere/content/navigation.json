@@ -55,6 +55,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "d280cf3a-543f-4e12-a53b-bbed7d6a135b",
+          "title": "在线学习",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
