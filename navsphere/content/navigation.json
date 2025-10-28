@@ -40,14 +40,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "site_1761624729928_welya386r",
-          "title": "国学资源",
-          "href": "https://www.guoxueziyuan.com/",
-          "description": "国学资源",
-          "icon": "/assets/favicon_1761624688360.png",
-          "enabled": true
-        },
-        {
           "id": "item-1761627064338",
           "enabled": true,
           "title": "TinyWow",
