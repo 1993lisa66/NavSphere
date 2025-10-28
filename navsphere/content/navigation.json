@@ -28,6 +28,14 @@
           "href": "https://fmhy.net/",
           "description": "The largest collection of free stuff on the internet!",
           "icon": "/assets/favicon_1761627146735.png"
+        },
+        {
+          "id": "site_1761628541088_qj73p86z7",
+          "title": "美剧屋",
+          "href": "https://www.mjwu.cc/",
+          "description": "美剧屋（www.mjwu.cc）是一家可免费在线观看播放的美剧天堂，专业提供高清好看的人人美剧高清在线播放，美剧在线天天看，第一时间为广大美剧迷推荐精彩好看的天天美剧节目，就上美剧屋。",
+          "icon": "/assets/favicon_1761628532253.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
