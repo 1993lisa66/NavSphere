@@ -69,11 +69,11 @@
         },
         {
           "id": "item-1761626759921",
-          "enabled": true,
-          "title": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+          "title": "交互式路线图",
           "href": "https://github.com/kamranahmedse/developer-roadmap",
           "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers. - kamranahmedse/developer-roadmap",
-          "icon": "/assets/favicon_1761626731327.png"
+          "icon": "/assets/favicon_1761626731327.png",
+          "enabled": true
         },
         {
           "id": "item-1761626846817",
