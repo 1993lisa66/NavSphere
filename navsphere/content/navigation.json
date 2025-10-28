@@ -4,16 +4,7 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [
-        {
-          "id": "site_1761624150623_mcpt9nry6",
-          "title": "NCE Flow",
-          "href": "https://nce.luzhenhua.cn/",
-          "description": "",
-          "icon": "/assets/favicon_1761624145044.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "f511d39c-7d10-491a-b271-ac9ad85ca3e2",
@@ -61,6 +52,14 @@
               "href": "https://qwerty.kaiyi.cool/",
               "description": "Qwerty Learner 官方网站 - 专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
               "icon": "/assets/favicon_1761623726429.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1761624150623_mcpt9nry6",
+              "title": "NCE Flow",
+              "href": "https://nce.luzhenhua.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1761624145044.ico",
               "enabled": true
             }
           ]
