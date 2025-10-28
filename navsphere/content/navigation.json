@@ -49,6 +49,14 @@
           "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers - RealKai42/qwerty-learner",
           "icon": "/assets/favicon_1761624079932.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761624189456_ew794darm",
+          "title": "GitHub - luzhenhua/NCE-Flow: 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。",
+          "href": "https://github.com/luzhenhua/NCE-Flow?tab=readme-ov-file",
+          "description": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。. Contribute to luzhenhua/NCE-Flow development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1761624184708.png",
+          "enabled": true
         }
       ],
       "subCategories": []
