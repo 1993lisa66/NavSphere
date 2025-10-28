@@ -155,6 +155,7 @@ export function SearchBar({ onSearch, searchResults, searchQuery, siteConfig }: 
                                 const target = e.target as HTMLImageElement
                                 target.style.display = 'none'
                               }}
+                              loading="lazy"
                             />
                           )}
                         </div>
@@ -192,6 +193,7 @@ export function SearchBar({ onSearch, searchResults, searchQuery, siteConfig }: 
                                     const target = e.target as HTMLImageElement
                                     target.style.display = 'none'
                                   }}
+                                  loading="lazy"
                                 />
                               )}
                             </div>

@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Vercel 部署支持
-  output: 'standalone',
+  // 根据需要启用 standalone 输出
+  // output: 'standalone',
   
   images: {
     domains: [
@@ -32,7 +32,7 @@ const nextConfig = {
   // Vercel configuration
   experimental: {
     serverActions: {
-      allowedOrigins: ['localhost', '*.vercel.app', 'navsphere.com']
+      allowedOrigins: ['localhost', '*.vercel.app', 'navsphere.com', 'nav.zhanglei928.com']
     }
   }
 }

@@ -48,6 +48,11 @@ export function NavigationCard({ item, siteConfig }: NavigationCardProps) {
                         src={item.icon}
                         alt={`${item.title} icon`}
                         className="w-full h-full object-contain"
+                        loading="lazy"
+                        onError={(e) => {
+                          const target = e.target as HTMLImageElement
+                          target.style.display = 'none'
+                        }}
                       />
                     </div>
                   )}

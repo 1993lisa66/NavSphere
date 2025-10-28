@@ -78,8 +78,8 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
       }
     })
 
-    // 调试信息
-    if (query && results.length > 0) {
+    // 调试信息（仅在开发环境）
+    if (process.env.NODE_ENV === 'development' && query && results.length > 0) {
       console.log('搜索结果:', {
         query,
         totalResults: results.length,

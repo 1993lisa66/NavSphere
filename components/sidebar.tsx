@@ -51,6 +51,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
           width={16}
           height={16}
           className="h-4 w-4"
+          loading="lazy"
         />
       );
     }
@@ -86,6 +87,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
               width={24}
               height={24}
               className="h-6 w-6"
+              loading="lazy"
             />
           ) : (
             <LucideIcons.Globe className="h-6 w-6" />
