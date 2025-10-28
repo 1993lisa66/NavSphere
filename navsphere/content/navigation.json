@@ -20,14 +20,6 @@
           "description": "",
           "icon": "/assets/favicon_1761624145044.ico",
           "enabled": true
-        },
-        {
-          "id": "item-1761627159107",
-          "enabled": true,
-          "title": "fmhy",
-          "href": "https://fmhy.net/",
-          "description": "The largest collection of free stuff on the internet!",
-          "icon": "/assets/favicon_1761627146735.png"
         }
       ],
       "subCategories": [
@@ -80,6 +72,14 @@
           "href": "https://tinywow.com/",
           "description": "免费 AI 写作、PDF、图像和其他在线工具",
           "icon": "/assets/favicon_1761627033438.png"
+        },
+        {
+          "id": "item-1761627159107",
+          "title": "fmhy",
+          "href": "https://fmhy.net/",
+          "description": "The largest collection of free stuff on the internet!",
+          "icon": "/assets/favicon_1761627146735.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
