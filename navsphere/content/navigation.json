@@ -52,6 +52,14 @@
               "description": "人人视频APP",
               "icon": "/assets/favicon_1761629100068.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1761629160401_v035hhjzo",
+              "title": "MX动漫-专注在线动漫的樱花动漫备用网站",
+              "href": "https://www.mxdm.xyz/",
+              "description": "MX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
+              "icon": "/assets/favicon_1761629155737.png",
+              "enabled": true
             }
           ]
         },
