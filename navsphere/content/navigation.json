@@ -36,6 +36,14 @@
               "description": "磁力熊-纯净的1080P高分电影网站",
               "icon": "/assets/favicon_1761628564077.png",
               "enabled": true
+            },
+            {
+              "id": "site_1761629053372_s3dg0e88b",
+              "title": "SeedHub | 影视&动漫分享",
+              "href": "https://www.seedhub.cc/",
+              "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
+              "icon": "/assets/favicon_1761629048961.png",
+              "enabled": true
             }
           ]
         },
