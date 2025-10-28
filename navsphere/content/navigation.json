@@ -54,7 +54,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "f511d39c-7d10-491a-b271-ac9ad85ca3e2",
+          "title": "在线影视",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
