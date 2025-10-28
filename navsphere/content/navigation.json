@@ -66,6 +66,14 @@
           "description": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。. Contribute to luzhenhua/NCE-Flow development by creating an account on GitHub.",
           "icon": "/assets/favicon_1761624184708.png",
           "enabled": true
+        },
+        {
+          "id": "item-1761626759921",
+          "enabled": true,
+          "title": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+          "href": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers. - kamranahmedse/developer-roadmap",
+          "icon": "/assets/favicon_1761626731327.png"
         }
       ],
       "subCategories": []
