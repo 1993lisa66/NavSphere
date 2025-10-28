@@ -74,6 +74,14 @@
           "href": "https://github.com/kamranahmedse/developer-roadmap",
           "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers. - kamranahmedse/developer-roadmap",
           "icon": "/assets/favicon_1761626731327.png"
+        },
+        {
+          "id": "item-1761626846817",
+          "enabled": true,
+          "title": "插件化、定制化、无广告的免费音乐播放器",
+          "href": "https://github.com/maotoumao/MusicFree",
+          "description": "插件化、定制化、无广告的免费音乐播放器. Contribute to maotoumao/MusicFree development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1761626831537.png"
         }
       ],
       "subCategories": []
