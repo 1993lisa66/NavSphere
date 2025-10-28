@@ -44,6 +44,14 @@
           "description": "磁力熊-纯净的1080P高分电影网站",
           "icon": "/assets/favicon_1761628564077.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761628700651_m2ur7b063",
+          "title": "FreeOK",
+          "href": "https://www.gd-gdb.com/",
+          "description": "FreeOK，让追剧更畅快！提供最新高清电影、热播电视剧、综艺、动漫等海量视频资源，无广告、快速更新，追剧也可以轻松不卷，随时随地畅享观影乐趣。",
+          "icon": "/assets/favicon_1761628660948.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
