@@ -14,17 +14,7 @@
       "title": "常用工具",
       "icon": "Laptop",
       "items": [],
-      "subCategories": [
-        {
-          "id": "3",
-          "title": "在线工具",
-          "href": "#在线工具",
-          "icon": "Folder",
-          "description": "",
-          "items": [],
-          "enabled": true
-        }
-      ],
+      "subCategories": [],
       "description": "",
       "enabled": true
     },
