@@ -44,6 +44,14 @@
               "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
               "icon": "/assets/favicon_1761629048961.png",
               "enabled": true
+            },
+            {
+              "id": "site_1761629106597_z337ru5l2",
+              "title": "人人视频",
+              "href": "https://m.yichengwlkj.com/pc",
+              "description": "人人视频APP",
+              "icon": "/assets/favicon_1761629100068.ico",
+              "enabled": true
             }
           ]
         },
