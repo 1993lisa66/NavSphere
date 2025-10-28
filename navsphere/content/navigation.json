@@ -36,6 +36,14 @@
           "description": "美剧屋（www.mjwu.cc）是一家可免费在线观看播放的美剧天堂，专业提供高清好看的人人美剧高清在线播放，美剧在线天天看，第一时间为广大美剧迷推荐精彩好看的天天美剧节目，就上美剧屋。",
           "icon": "/assets/favicon_1761628532253.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761628586080_zvxjkmp6x",
+          "title": "磁力熊",
+          "href": "https://www.cilixiong.org/",
+          "description": "磁力熊-纯净的1080P高分电影网站",
+          "icon": "/assets/favicon_1761628564077.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
