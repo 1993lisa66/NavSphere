@@ -106,14 +106,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "item-1761627064338",
-          "enabled": true,
-          "title": "TinyWow",
-          "href": "https://tinywow.com/",
-          "description": "免费 AI 写作、PDF、图像和其他在线工具",
-          "icon": "/assets/favicon_1761627033438.png"
-        },
-        {
           "id": "item-1761627159107",
           "title": "fmhy",
           "href": "https://fmhy.net/",
