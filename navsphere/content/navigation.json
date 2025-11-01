@@ -128,6 +128,14 @@
           "href": "https://zh.openzlib.link/",
           "description": "Z-Library 是一个在线图书馆，旨在通过提供获取图书来提高全球教育水平。我们认为，在人类历史上，书籍一直是宝贵的知识来源，因此我们的目标是为有需要的人提供免费获取文学作品的机会。",
           "icon": "/assets/favicon_1761708231904.svg"
+        },
+        {
+          "id": "item-1762002732996",
+          "enabled": true,
+          "title": "Z2H字帖",
+          "href": "https://z2h.cn/",
+          "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
+          "icon": "/assets/favicon_1762002723507.png"
         }
       ],
       "subCategories": [],
