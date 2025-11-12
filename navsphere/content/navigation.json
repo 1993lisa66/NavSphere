@@ -144,6 +144,14 @@
           "href": "https://pan.xiaozi.cc/",
           "description": "盘小子为您提供免费的网盘资源搜索服务，支持夸克网盘、百度网盘、阿里云盘等主流网盘平台。快速精准搜索，一键直达，让您轻松找到需要的资源。安全无广告，简单好用。",
           "icon": "/assets/favicon_1762585180246.png"
+        },
+        {
+          "id": "item-1762953368444",
+          "enabled": true,
+          "title": "书格",
+          "href": "https://www.shuge.org/",
+          "description": "访问 www.shuge.org",
+          "icon": "/assets/favicon_1762953360791.png"
         }
       ],
       "subCategories": [],
