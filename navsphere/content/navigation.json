@@ -104,16 +104,7 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [
-        {
-          "id": "item-1763091425532",
-          "enabled": true,
-          "title": "Free eBooks",
-          "href": "https://www.gutenberg.org/",
-          "description": "Project Gutenberg is a library of free eBooks.",
-          "icon": "/assets/favicon_1763091418969.ico"
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "6cc6bfc4-1f94-4766-86af-46c8c7ca3ff7",
@@ -152,6 +143,14 @@
               "href": "https://annas-archive.org/",
               "description": "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.",
               "icon": "/assets/favicon_1763091379165.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1763091425532",
+              "title": "Free eBooks",
+              "href": "https://www.gutenberg.org/",
+              "description": "Project Gutenberg is a library of free eBooks.",
+              "icon": "/assets/favicon_1763091418969.ico",
               "enabled": true
             }
           ]
