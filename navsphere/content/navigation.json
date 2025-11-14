@@ -238,6 +238,14 @@
           "href": "https://github.com/maotoumao/MusicFree",
           "description": "插件化、定制化、无广告的免费音乐播放器. Contribute to maotoumao/MusicFree development by creating an account on GitHub.",
           "icon": "/assets/favicon_1761626831537.png"
+        },
+        {
+          "id": "item-1763129290012",
+          "enabled": true,
+          "title": "MuMuAINovel",
+          "href": "https://github.com/xiamuceer-j/MuMuAINovel",
+          "description": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事. Contribute to xiamuceer-j/MuMuAINovel development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1763129279066.png"
         }
       ],
       "subCategories": []
