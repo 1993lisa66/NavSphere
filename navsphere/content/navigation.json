@@ -106,14 +106,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "item-1762002732996",
-          "enabled": true,
-          "title": "Z2H字帖",
-          "href": "https://z2h.cn/",
-          "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
-          "icon": "/assets/favicon_1762002723507.png"
-        },
-        {
           "id": "item-1762002784449",
           "enabled": true,
           "title": "PDF24",
@@ -194,7 +186,16 @@
           "icon": "Settings",
           "description": "常用工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1762002732996",
+              "title": "Z2H字帖",
+              "href": "https://z2h.cn/",
+              "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
+              "icon": "/assets/favicon_1762002723507.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
