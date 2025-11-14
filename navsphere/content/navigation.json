@@ -106,14 +106,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "item-1762002784449",
-          "enabled": true,
-          "title": "PDF24",
-          "href": "https://tools.pdf24.org/zh/all-tools",
-          "description": "PDF24提供大量的经过精心裁剪的针对特定问题的工具集合。您将在这个页面找到所有的PDF工具。",
-          "icon": "/assets/favicon_1762002779955.png"
-        },
-        {
           "id": "item-1762153220190",
           "enabled": true,
           "title": "FOFA",
@@ -193,6 +185,14 @@
               "href": "https://z2h.cn/",
               "description": "这是一个优雅实用的在线字帖生成工具，可轻松自定义所需字帖，支持汉字和英文任意排版、灵活设置描红样式和大小、自选字体、生成控笔练习字帖、导出图片等。",
               "icon": "/assets/favicon_1762002723507.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1762002784449",
+              "title": "PDF24",
+              "href": "https://tools.pdf24.org/zh/all-tools",
+              "description": "PDF24提供大量的经过精心裁剪的针对特定问题的工具集合。您将在这个页面找到所有的PDF工具。",
+              "icon": "/assets/favicon_1762002779955.png",
               "enabled": true
             }
           ]
