@@ -193,6 +193,14 @@
               "description": "盘小子为您提供免费的网盘资源搜索服务，支持夸克网盘、百度网盘、阿里云盘等主流网盘平台。快速精准搜索，一键直达，让您轻松找到需要的资源。安全无广告，简单好用。",
               "icon": "/assets/favicon_1762585180246.png",
               "enabled": true
+            },
+            {
+              "id": "item-1763129623998",
+              "enabled": true,
+              "title": "TGwiki",
+              "href": "https://wiki.tgnav.org/",
+              "description": "TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，汇集了Telegram常用功能介绍和使用说明，帮助用户更全面地了解Telegram的各种功能。",
+              "icon": "/assets/favicon_1763129604492.png"
             }
           ]
         }
