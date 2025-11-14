@@ -160,6 +160,14 @@
           "href": "https://annas-archive.org/",
           "description": "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.",
           "icon": "/assets/favicon_1763091379165.png"
+        },
+        {
+          "id": "item-1763091425532",
+          "enabled": true,
+          "title": "Free eBooks",
+          "href": "https://www.gutenberg.org/",
+          "description": "Project Gutenberg is a library of free eBooks.",
+          "icon": "/assets/favicon_1763091418969.ico"
         }
       ],
       "subCategories": [],
