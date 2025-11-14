@@ -106,14 +106,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "item-1762585194785",
-          "enabled": true,
-          "title": "盘小子",
-          "href": "https://pan.xiaozi.cc/",
-          "description": "盘小子为您提供免费的网盘资源搜索服务，支持夸克网盘、百度网盘、阿里云盘等主流网盘平台。快速精准搜索，一键直达，让您轻松找到需要的资源。安全无广告，简单好用。",
-          "icon": "/assets/favicon_1762585180246.png"
-        },
-        {
           "id": "item-1763091406023",
           "enabled": true,
           "title": "Anna’s Archive",
@@ -193,6 +185,14 @@
               "href": "https://fofa.info/",
               "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
               "icon": "/assets/favicon_1762153209960.ico",
+              "enabled": true
+            },
+            {
+              "id": "item-1762585194785",
+              "title": "盘小子",
+              "href": "https://pan.xiaozi.cc/",
+              "description": "盘小子为您提供免费的网盘资源搜索服务，支持夸克网盘、百度网盘、阿里云盘等主流网盘平台。快速精准搜索，一键直达，让您轻松找到需要的资源。安全无广告，简单好用。",
+              "icon": "/assets/favicon_1762585180246.png",
               "enabled": true
             }
           ]
