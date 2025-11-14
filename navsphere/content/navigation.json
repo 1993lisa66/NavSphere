@@ -138,14 +138,6 @@
           "icon": "/assets/favicon_1762585180246.png"
         },
         {
-          "id": "item-1762953368444",
-          "enabled": true,
-          "title": "书格",
-          "href": "https://www.shuge.org/",
-          "description": "访问 www.shuge.org",
-          "icon": "/assets/favicon_1762953360791.png"
-        },
-        {
           "id": "item-1763091406023",
           "enabled": true,
           "title": "Anna’s Archive",
@@ -184,6 +176,14 @@
               "href": "https://zh.openzlib.link/",
               "description": "Z-Library 是一个在线图书馆，旨在通过提供获取图书来提高全球教育水平。我们认为，在人类历史上，书籍一直是宝贵的知识来源，因此我们的目标是为有需要的人提供免费获取文学作品的机会。",
               "icon": "/assets/favicon_1761708231904.svg",
+              "enabled": true
+            },
+            {
+              "id": "item-1762953368444",
+              "title": "书格",
+              "href": "https://www.shuge.org/",
+              "description": "访问 www.shuge.org",
+              "icon": "/assets/favicon_1762953360791.png",
               "enabled": true
             }
           ]
