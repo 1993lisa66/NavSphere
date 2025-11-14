@@ -186,6 +186,14 @@
           "description": "在线找书",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "373a3915-03d6-44dc-bce5-69fd77a27875",
+          "title": "常用工具",
+          "icon": "Settings",
+          "description": "常用工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
