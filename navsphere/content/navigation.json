@@ -106,14 +106,6 @@
       "icon": "Laptop",
       "items": [
         {
-          "id": "item-1763091406023",
-          "enabled": true,
-          "title": "Anna’s Archive",
-          "href": "https://annas-archive.org/",
-          "description": "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.",
-          "icon": "/assets/favicon_1763091379165.png"
-        },
-        {
           "id": "item-1763091425532",
           "enabled": true,
           "title": "Free eBooks",
@@ -152,6 +144,14 @@
               "href": "https://www.jiumodiary.com/",
               "description": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
               "icon": "/assets/favicon_1763091436494.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1763091406023",
+              "title": "Anna’s Archive",
+              "href": "https://annas-archive.org/",
+              "description": "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.",
+              "icon": "/assets/favicon_1763091379165.png",
               "enabled": true
             }
           ]
