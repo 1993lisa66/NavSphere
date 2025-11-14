@@ -178,7 +178,16 @@
           "icon": "/assets/favicon_1763091436494.png"
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "6cc6bfc4-1f94-4766-86af-46c8c7ca3ff7",
+          "title": "在线找书",
+          "icon": "Globe",
+          "description": "在线找书",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
