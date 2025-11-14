@@ -152,6 +152,14 @@
           "href": "https://www.shuge.org/",
           "description": "访问 www.shuge.org",
           "icon": "/assets/favicon_1762953360791.png"
+        },
+        {
+          "id": "item-1763091406023",
+          "enabled": true,
+          "title": "Anna’s Archive",
+          "href": "https://annas-archive.org/",
+          "description": "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more.",
+          "icon": "/assets/favicon_1763091379165.png"
         }
       ],
       "subCategories": [],
