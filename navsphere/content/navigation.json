@@ -168,6 +168,14 @@
           "href": "https://www.gutenberg.org/",
           "description": "Project Gutenberg is a library of free eBooks.",
           "icon": "/assets/favicon_1763091418969.ico"
+        },
+        {
+          "id": "item-1763091455684",
+          "enabled": true,
+          "title": "鸠摩搜索",
+          "href": "https://www.jiumodiary.com/",
+          "description": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+          "icon": "/assets/favicon_1763091436494.png"
         }
       ],
       "subCategories": [],
