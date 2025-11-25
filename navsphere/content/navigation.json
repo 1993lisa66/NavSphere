@@ -201,6 +201,14 @@
               "href": "https://wiki.tgnav.org/",
               "description": "TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，汇集了Telegram常用功能介绍和使用说明，帮助用户更全面地了解Telegram的各种功能。",
               "icon": "/assets/favicon_1763129604492.png"
+            },
+            {
+              "id": "item-1764050265762",
+              "enabled": true,
+              "title": "PlayPhrase",
+              "href": "https://www.playphrase.me/#/search?language=en",
+              "description": "在电影中找单词",
+              "icon": "/assets/favicon_1764050236581.png"
             }
           ]
         }
