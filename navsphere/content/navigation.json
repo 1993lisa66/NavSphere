@@ -270,6 +270,14 @@
           "href": "https://github.com/HuLaSpark/HuLa",
           "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） - HuLaSpark/HuLa",
           "icon": "/assets/favicon_1765599166278.png"
+        },
+        {
+          "id": "item-1765599228755",
+          "enabled": true,
+          "title": "HuLaSpark",
+          "href": "https://github.com/solidSpoon/DashPlayer",
+          "description": "为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 - solidSpoon/DashPlayer",
+          "icon": "/assets/favicon_1765599222353.png"
         }
       ],
       "subCategories": []
