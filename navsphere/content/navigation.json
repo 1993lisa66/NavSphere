@@ -278,6 +278,14 @@
           "href": "https://github.com/solidSpoon/DashPlayer",
           "description": "为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 - solidSpoon/DashPlayer",
           "icon": "/assets/favicon_1765599222353.png"
+        },
+        {
+          "id": "item-1765599254959",
+          "enabled": true,
+          "title": "BettaFish",
+          "href": "https://github.com/666ghj/BettaFish/blob/main/README.md",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 - BettaFish/README.md at main · 666ghj/BettaFish",
+          "icon": "/assets/favicon_1765599246036.png"
         }
       ],
       "subCategories": []
