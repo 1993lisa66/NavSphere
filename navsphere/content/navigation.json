@@ -160,6 +160,14 @@
               "href": "https://m.keledge.com/index",
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.keledge.com"
+            },
+            {
+              "id": "item-1765681729439",
+              "enabled": true,
+              "title": "首页 | 畅想中心 - 数字阅读",
+              "href": "https://m.cxstar.com/",
+              "description": "访问 m.cxstar.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.cxstar.com"
             }
           ]
         },
