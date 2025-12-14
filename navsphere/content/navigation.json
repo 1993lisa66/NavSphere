@@ -7,6 +7,39 @@
       "items": [],
       "subCategories": [
         {
+          "id": "d280cf3a-543f-4e12-a53b-bbed7d6a135b",
+          "title": "在线学习",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1761623740329_7mt21ujwl",
+              "title": "Qwerty Learner",
+              "href": "https://qwerty.kaiyi.cool/",
+              "description": "Qwerty Learner 官方网站 - 专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
+              "icon": "/assets/favicon_1761623726429.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1761624150623_mcpt9nry6",
+              "title": "NCE Flow",
+              "href": "https://nce.luzhenhua.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1761624145044.ico",
+              "enabled": true
+            },
+            {
+              "id": "item-1761987732030",
+              "title": "Type Words ",
+              "href": "https://2study.top/",
+              "description": "Type Words：在线英语练习平台，支持单词、文章跟打练习，提升打字与语言能力。Practice English, one keystroke at a time.",
+              "icon": "/assets/favicon_1761987723260.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "f511d39c-7d10-491a-b271-ac9ad85ca3e2",
           "title": "在线影视",
           "icon": "Folder",
@@ -59,39 +92,6 @@
               "href": "https://www.mxdm.xyz/",
               "description": "MX动漫提供最新最快的在线观看动漫番剧资源，在线观看完全免费、无须注册、高速播放、更新及时的专业在线动漫网站，是樱花动漫外最好打的备用动漫网站。",
               "icon": "/assets/favicon_1761629155737.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "d280cf3a-543f-4e12-a53b-bbed7d6a135b",
-          "title": "在线学习",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1761623740329_7mt21ujwl",
-              "title": "Qwerty Learner",
-              "href": "https://qwerty.kaiyi.cool/",
-              "description": "Qwerty Learner 官方网站 - 专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
-              "icon": "/assets/favicon_1761623726429.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1761624150623_mcpt9nry6",
-              "title": "NCE Flow",
-              "href": "https://nce.luzhenhua.cn/",
-              "description": "",
-              "icon": "/assets/favicon_1761624145044.ico",
-              "enabled": true
-            },
-            {
-              "id": "item-1761987732030",
-              "title": "Type Words ",
-              "href": "https://2study.top/",
-              "description": "Type Words：在线英语练习平台，支持单词、文章跟打练习，提升打字与语言能力。Practice English, one keystroke at a time.",
-              "icon": "/assets/favicon_1761987723260.png",
               "enabled": true
             }
           ]
