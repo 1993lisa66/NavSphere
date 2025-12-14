@@ -152,6 +152,14 @@
               "description": "Project Gutenberg is a library of free eBooks.",
               "icon": "/assets/favicon_1763091418969.ico",
               "enabled": true
+            },
+            {
+              "id": "item-1765681702044",
+              "enabled": true,
+              "title": "可知",
+              "href": "https://m.keledge.com/index",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.keledge.com"
             }
           ]
         },
