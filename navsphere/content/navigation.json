@@ -168,6 +168,14 @@
               "href": "https://m.cxstar.com/",
               "description": "访问 m.cxstar.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.cxstar.com"
+            },
+            {
+              "id": "item-1765681745983",
+              "enabled": true,
+              "title": "全国图书馆参考咨询联盟",
+              "href": "http://www.ucdrs.superlib.net/",
+              "description": "访问 www.ucdrs.superlib.net",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ucdrs.superlib.net"
             }
           ]
         },
