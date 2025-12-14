@@ -114,6 +114,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "item-1763091455684",
+              "title": "鸠摩搜索",
+              "href": "https://www.jiumodiary.com/",
+              "description": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+              "icon": "/assets/favicon_1763091436494.png",
+              "enabled": true
+            },
+            {
               "id": "item-1761708253454",
               "title": "Z-Library",
               "href": "https://zh.openzlib.link/",
@@ -135,14 +143,6 @@
               "href": "https://www.shuge.org/",
               "description": "访问 www.shuge.org",
               "icon": "/assets/favicon_1762953360791.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1763091455684",
-              "title": "鸠摩搜索",
-              "href": "https://www.jiumodiary.com/",
-              "description": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
-              "icon": "/assets/favicon_1763091436494.png",
               "enabled": true
             },
             {
