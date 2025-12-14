@@ -176,6 +176,14 @@
               "href": "http://www.ucdrs.superlib.net/",
               "description": "访问 www.ucdrs.superlib.net",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ucdrs.superlib.net"
+            },
+            {
+              "id": "item-1765681810405",
+              "enabled": true,
+              "title": "读秀",
+              "href": "https://duxiu.mh.chaoxing.com/entry/",
+              "description": "读秀",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=duxiu.mh.chaoxing.com"
             }
           ]
         },
