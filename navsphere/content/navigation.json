@@ -241,6 +241,14 @@
               "href": "https://www.playphrase.me/#/search?language=en",
               "description": "在电影中找单词",
               "icon": "/assets/favicon_1764050236581.png"
+            },
+            {
+              "id": "item-1766808265741",
+              "enabled": true,
+              "title": "国学一字堂",
+              "href": "https://www.yzthome.com/",
+              "description": "以经典为核心，创新经典，整理国故；以互助共享，共筹互建为方式，通过掌上读经典、明师传经典，发扬中华文化，为新时代传统文化复兴略尽绵力。",
+              "icon": "/assets/favicon_1766808244445.ico"
             }
           ]
         }
