@@ -249,6 +249,14 @@
               "href": "https://www.yzthome.com/",
               "description": "以经典为核心，创新经典，整理国故；以互助共享，共筹互建为方式，通过掌上读经典、明师传经典，发扬中华文化，为新时代传统文化复兴略尽绵力。",
               "icon": "/assets/favicon_1766808244445.ico"
+            },
+            {
+              "id": "item-1766842856674",
+              "enabled": true,
+              "title": "Awesome Mac",
+              "href": "https://wangchujiang.com/awesome-mac/README-zh.html",
+              "description": "收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac",
+              "icon": "/assets/favicon_1766842841921.png"
             }
           ]
         }
