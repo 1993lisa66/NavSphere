@@ -259,6 +259,14 @@
               "icon": "/assets/favicon_1766842841921.png"
             }
           ]
+        },
+        {
+          "id": "78c6376e-b691-4a89-b098-430a762abfd8",
+          "title": "常用工具",
+          "icon": "Folder",
+          "description": "常用工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
