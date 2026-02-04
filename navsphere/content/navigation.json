@@ -266,6 +266,14 @@
               "description": "以经典为核心，创新经典，整理国故；以互助共享，共筹互建为方式，通过掌上读经典、明师传经典，发扬中华文化，为新时代传统文化复兴略尽绵力。",
               "icon": "/assets/favicon_1766808244445.ico",
               "enabled": true
+            },
+            {
+              "id": "item-1770192102020",
+              "enabled": true,
+              "title": "Steam PC游戏资源下载",
+              "href": "https://www.steambk.com/pcgame/page/2?o=update",
+              "description": "蒸汽游戏宝库Steam PC游戏专区，提供免费、高质量的Steam单机游戏下载资源，支持百度网盘、夸克网盘、迅雷等高速下载通道，更新及时，资源全面，并附带详细安装教程，小白用户也能轻松畅玩！",
+              "icon": "/assets/favicon_1770192095764.png"
             }
           ]
         }
