@@ -257,6 +257,14 @@
               "href": "https://www.autohanding.com/",
               "description": "凹凸工坊-手写转换官网_手写模拟器_一键生成手写文稿_手写字体在线转换_在线字体制作_手写APP下载_模仿手写软件_AI手写字体生成_手写字体生成器_字体下载",
               "icon": "/assets/favicon_1770192266195.png"
+            },
+            {
+              "id": "item-1770194156515",
+              "enabled": true,
+              "title": "装个机",
+              "href": "https://zhuangit.ababtools.com/",
+              "description": "装个机 - 专业电脑重装系统指南教程网站，提供Windows/Mac重装系统教程、一键重装系统工具、U盘启动盘制作方法、PE工具、系统激活工具，助您轻松完成电脑系统安装",
+              "icon": "/assets/favicon_1770194143489.svg"
             }
           ]
         },
